@@ -80,10 +80,10 @@
     	}
     	return result;
     }
-
+    //TODO: 测试修改部分
     _.uniq = function(array, [isSorted], [iteratee]){
     	var result = [];
-    	array.
+    	// array.
     }
 
     _.union = function(){
